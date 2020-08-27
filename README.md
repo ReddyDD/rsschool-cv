@@ -1,1 +1,1 @@
-https://reddydd.github.io/rsschool-cv/
+https://reddydd.github.io/rsschool-cv/cv
