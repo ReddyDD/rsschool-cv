@@ -3,6 +3,7 @@
 * *tel:* +375 (29) 6337334
 * *e-mail:* faint11@gmail.com
 * *Skype:* vitaliymarkevich
+* *LinkedIn:* [Vitaliy Markevich](https://www.linkedin.com/in/vitaliy-markevich-8bb6631b5)
 
 ## Summary:
 I want to start my career as junior Front-End developer. My aim - grow to senior after 3 year. 
